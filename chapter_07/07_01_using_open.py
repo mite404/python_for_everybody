@@ -1,0 +1,1 @@
+fhand = open('readme.txt')
