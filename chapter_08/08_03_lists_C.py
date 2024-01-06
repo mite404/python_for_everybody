@@ -1,4 +1,4 @@
-"""
+
 # best friends: Strings and Lists
 abc = 'With three words'
 stuff = abc.split()
@@ -35,7 +35,7 @@ print(len(thing))
 line = 'first;second;third'
 thing = line.split(';')
 print(thing)
-"""
+
 
 """
 fhand = open('/Users/ea/Programming/Python/pyprojects/python_for_everybody/chapter_08/mbox-short.txt')
